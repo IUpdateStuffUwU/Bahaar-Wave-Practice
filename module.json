@@ -2,7 +2,7 @@
     "servers": ["https://raw.githubusercontent.com/IUpdateStuffUwU/Bahaar-Wave-Practice/master/"],
     "supportUrl": "https://github.com/IUpdateStuffUwU/Bahaar-Wave-Practice/issues",
     "name": "bahaar-waves",
-    "disableAutoUpdate": false,
+    "disableAutoUpdate": true,
     "dependencies": {
         "library": "https://raw.githubusercontent.com/Kaseaa/library/master/module.json"
     },
