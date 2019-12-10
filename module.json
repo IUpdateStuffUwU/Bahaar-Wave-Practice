@@ -1,6 +1,6 @@
 {
-    "servers": ["https://raw.githubusercontent.com/IUpdateStuffUwU/bahaar-wave-practice/master/"],
-    "supportUrl": "https://github.com/IUpdateStuffUwU/bahaar-wave-practice/issues",
+    "servers": ["https://raw.githubusercontent.com/IUpdateStuffUwU/Bahaar-Wave-Practice/master/"],
+    "supportUrl": "https://github.com/IUpdateStuffUwU/Bahaar-Wave-Practice/issues",
     "name": "bahaar-waves",
     "disableAutoUpdate": false,
     "dependencies": {
