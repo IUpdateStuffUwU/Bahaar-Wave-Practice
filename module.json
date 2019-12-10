@@ -1,8 +1,8 @@
 {
-    "servers": ["https://raw.githubusercontent.com/Kaseaa/bahaar-wave-practice/master/"],
-    "supportUrl": "https://github.com/Kaseaa/bahaar-wave-practice/issues",
+    "servers": ["https://raw.githubusercontent.com/IUpdateStuffUwU/bahaar-wave-practice/master/"],
+    "supportUrl": "https://github.com/IUpdateStuffUwU/bahaar-wave-practice/issues",
     "name": "bahaar-waves",
-    "disableAutoUpdate": true,
+    "disableAutoUpdate": false,
     "dependencies": {
         "library": "https://raw.githubusercontent.com/Kaseaa/library/master/module.json"
     },
@@ -10,5 +10,6 @@
         "guiName": "Bahaar wave practice"
     },
     "author": "Kasea",
+    "Maintained": "IUpdateStuffUwU",
     "description": "Tera bahaar wave practice tool"
 }
